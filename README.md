@@ -1,1 +1,1 @@
-# ciursera-test-repository
+# coursera-test-repository
